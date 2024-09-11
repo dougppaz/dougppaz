@@ -18,3 +18,7 @@ DevOps / SRE / IaC:
 Databases:
 
 [![My Skills: databases](https://skillicons.dev/icons?i=elasticsearch,postgres,mongodb,redis&theme=light)](https://skillicons.dev)
+
+Clouds:
+
+[![My Skills: clouds](https://skillicons.dev/icons?i=gcp,aws&theme=light)](https://skillicons.dev)
